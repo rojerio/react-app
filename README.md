@@ -15,6 +15,10 @@ Cada participante adicional adiciona 25% nos custos de estalagem.
 Enquanto escolhe o destino, o número de participantes, o tipo de estalagem e as datas de ida e volta, sempre aperece o subtotal imediato da compra a mostra com os critérios detalhados.
 Após escolher a viagem, as datas, o número de participantes, será redirecionado para tela de pagamento e fechamento de pedido, discriminando os critérios detalhados e o total. E exibindo métodos de pagamento: pix ou cartão de crédito.
 
-Foi adicionado agora distância e preço, junto com cálculos para caso tenha mais de uma pessoa viajando, dia da viagem e cálculo do preço com base na distância.  
+Foi adicionado agora distância e preço também com um subtitulo dos locais, junto com cálculos para caso tenha mais de uma pessoa viajando, dia da viagem e cálculo do preço com base na distância.  
 
 Com o objetivo de mostrar o subtotal do valor, e no terminal mostrar o custo separado por cada parte da viagem.
+
+Também foi feito ajustes no projeto para tornalo mais funcional e menos complicado na coomprienção, e também feito para previnir bugs.
+
+
