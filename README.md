@@ -19,6 +19,6 @@ Foi adicionado agora distância e preço também com um subtitulo dos locais, ju
 
 Com o objetivo de mostrar o subtotal do valor, e no terminal mostrar o custo separado por cada parte da viagem.
 
-Também foi feito ajustes no projeto para tornalo mais funcional e menos complicado na coomprienção, e também feito para previnir bugs.
+Também foi feito ajustes no projeto para tornalo mais funcional e menos complicado na coomprienção, e também feito para previnir bugs (mesmo assim está com alguns bugs, como o da adição de 2 ou mais destinos).
 
 
