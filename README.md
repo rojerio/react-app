@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/26fde5c4-f3b7-4922-9036-31d8700d3e00)
+
+
 usamos o useEffect para “atualizar” os componentes automaticamente, e foi atualizado o sistema para funcionar como foi pedido: 
 
 Estamos no Brasil, então todos os pontos para calcular distância devem partir daqui.
